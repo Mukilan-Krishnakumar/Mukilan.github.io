@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Mukilan.github.io/static/css/main.2680aa0d.chunk.css",
-    "main.js": "/Mukilan.github.io/static/js/main.1b2980d2.chunk.js",
-    "main.js.map": "/Mukilan.github.io/static/js/main.1b2980d2.chunk.js.map",
+    "main.js": "/Mukilan.github.io/static/js/main.ed195d41.chunk.js",
+    "main.js.map": "/Mukilan.github.io/static/js/main.ed195d41.chunk.js.map",
     "runtime-main.js": "/Mukilan.github.io/static/js/runtime-main.ca3d223d.js",
     "runtime-main.js.map": "/Mukilan.github.io/static/js/runtime-main.ca3d223d.js.map",
     "static/js/2.01045220.chunk.js": "/Mukilan.github.io/static/js/2.01045220.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.ca3d223d.js",
     "static/js/2.01045220.chunk.js",
     "static/css/main.2680aa0d.chunk.css",
-    "static/js/main.1b2980d2.chunk.js"
+    "static/js/main.ed195d41.chunk.js"
   ]
 }
