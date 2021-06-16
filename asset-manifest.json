@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Mukilan-Krishnakumar/Mukilan.github.io/static/css/main.2680aa0d.chunk.css",
+    "main.js": "/Mukilan-Krishnakumar/Mukilan.github.io/static/js/main.76ab8cc0.chunk.js",
+    "main.js.map": "/Mukilan-Krishnakumar/Mukilan.github.io/static/js/main.76ab8cc0.chunk.js.map",
+    "runtime-main.js": "/Mukilan-Krishnakumar/Mukilan.github.io/static/js/runtime-main.404ffd6a.js",
+    "runtime-main.js.map": "/Mukilan-Krishnakumar/Mukilan.github.io/static/js/runtime-main.404ffd6a.js.map",
+    "static/js/2.01045220.chunk.js": "/Mukilan-Krishnakumar/Mukilan.github.io/static/js/2.01045220.chunk.js",
+    "static/js/2.01045220.chunk.js.map": "/Mukilan-Krishnakumar/Mukilan.github.io/static/js/2.01045220.chunk.js.map",
+    "index.html": "/Mukilan-Krishnakumar/Mukilan.github.io/index.html",
+    "static/css/main.2680aa0d.chunk.css.map": "/Mukilan-Krishnakumar/Mukilan.github.io/static/css/main.2680aa0d.chunk.css.map",
+    "static/js/2.01045220.chunk.js.LICENSE.txt": "/Mukilan-Krishnakumar/Mukilan.github.io/static/js/2.01045220.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.404ffd6a.js",
+    "static/js/2.01045220.chunk.js",
+    "static/css/main.2680aa0d.chunk.css",
+    "static/js/main.76ab8cc0.chunk.js"
+  ]
+}
