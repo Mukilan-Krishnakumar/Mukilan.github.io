@@ -16,7 +16,7 @@ export default class About extends Component {
                     <p>I am currently pursuing my B.Tech in Artificial Intelligence</p>
                     <p>I am curious and driven by passion. Things are not inherently worthy or unworthy, it is what you make of them that makes it worthy or unworthy.</p>
                     <p>I am trying to create projects which can inspire</p>
-                    <iframe width="560" height="315" src="https://www.youtube.com/embed/evoK0l0IhnM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/u_8qHBo6TF0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     </div>
                 </div>
                 </div>
